@@ -279,20 +279,6 @@ Section: Fundamental Flaw #2
 
 <!--
 #########################################
-Section: Processes versus Outcomes
-#########################################
--->
-
-# {background-image=assets/img/saban_quote.png background-size="cover" background-position="center"}
-
----
-
-
-
-
-
-<!--
-#########################################
 Section: Proficiency
 #########################################
 -->
@@ -351,7 +337,17 @@ Section: Proficiency
 - Even with coherence, there is no guarantee that the education system will achieve the policy goals.
 - But without coherence, I contend, accountability initiatives intended to improve the education system are doomed to fail.
 
+
+<!--
+#########################################
+Section: Processes versus Outcomes
+#########################################
+-->
+
+# {background-image=assets/img/saban_quote.png background-size="cover" background-position="center"}
+
 ---
+
 
 
 
