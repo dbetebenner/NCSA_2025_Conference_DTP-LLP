@@ -97,12 +97,12 @@ Section: Accountability is broken
 
 ---
 
-<h2>Two Fundamental Flaws of Accountability Systems</h2>
+<h2>Two Fundamental Flaws of Current Accountability Systems</h2>
 
 :::{.incremental}
 
-1. Educational accountability is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps. 
-2. In the pursuit of #1, the creation of NCLB/ESSA compliant accountability systems that instantiate fundamental misunderstandings of the relationship between student achievement and student growth ultimately undermining the ability of accountability systems to achieve their intended purpose.
+1. The presumption that educational accountability is an adequate and acceptable response to the challenge of chronic underperformance and large achievement gaps. 
+2. In trying to fulfill the achievement driven mandates of NCLB and ESSA, accountability systems were conceptualized and built on a flawed view of how student growth and achievement relate to each other —- making it impossible for those systems to fulfill their intended goals.
 
 :::
 
@@ -112,7 +112,7 @@ Section: Fundamental Flaw #1
 #########################################
 -->
 
-# {background-image=assets/img/performance_management_toolbox.png background-size="cover" background-position="center"}
+# {background-image=assets/img/performance_management_toolbox.png background-size="contain" background-position="center"}
 
 ---
 
@@ -188,7 +188,7 @@ Section: Fundamental Flaw #2
 #########################################
 -->
 
-# {background-image=assets/img/performance_management_toolbox.png background-size="cover" background-position="center"}
+# {background-image=assets/img/knot.png background-size="cover" background-position="center"}
 
 ---
 
@@ -197,70 +197,32 @@ Section: Fundamental Flaw #2
 
 :::{.incremental}
 
-- NCLB and later ESSA place central importance on the achievement of students often reported in terms of proficiency rates.
+- NCLB, later followed by ESSA, place central importance on the achievement of students often reported in terms of proficiency rates.
 - Proficiency rates, from school accountability to the reporting of summary results at the state level assume primary significance as THE indicator of education performance.
-- The primacy of proficiency rates (i.e. achievement) followed by a later addition of growth metrics (e.g., SGPs) has led to a fundamental misunderstanding of the relationship between achievement and growth.
-- This misunderstanding manifests itself in a misunderstanding: Proficiency and proficiency trends are the wrong tools for the effective performance management necessary to improve an education system. 
+- The primacy of proficiency rates (i.e. achievement) followed by a later addition of growth metrics into accountability systems (e.g., SGPs) has led to a fundamental misunderstanding of the relationship between achievement and growth.
+- This misunderstanding manifests itself in poor performance management: Proficiency and proficiency trends are the wrong tools for the effective performance management necessary to improve an education system. 
 
 :::
 
 ---
 
-<!--
-#########################################
-Section: Processes versus Outcomes
-#########################################
--->
-
-# {background-image=assets/img/saban_quote.png background-size="cover" background-position="center"}
-
----
-
-<h2>Gill's Framework</h2>
+<h2>Fundamental Flaw #2</h2>
+<h3>Incoherence between the components of the accountability system and its intended goals.</h3>
 
 :::{.incremental}
 
-- Brian Gill's [-@Gill:2022] paper, [_What should the future of educational accountability look like?,_]{style="color: blue;"} introduces a useful framework for indicators used in accountability systems.
-- Three Core Components of Gill's Framework
-  - **Processes:**  The activities, instructional practices, and organizational elements that schools implement to support student learning.
-  - **Impacts:**  The measurable effects of processes on student learning and development, often captured through growth metrics or value-added models.
-  - **Outcomes:**  The long-term results of education, such as achievement/proficiency levels, graduation rates, and other indicators of student success.
-
-- Gill argues that for indicators to drive meaningful improvement, they must be:
-  - **Valid:** Accurately measure what they claim to measure without systematic bias.
-  - **Reliable:** Stable and consistent over time to avoid misdiagnosis or loss of credibility.
-  - **Robust:** Resistant to unintended consequences and manipulation while capturing critical dimensions of educational quality.
+- The incorporation of growth metrics into accountability systems indicates that achievement and growth are viewed as different concepts. 
+- Yet, the difference in terms of how they are used in accountability systems belies a simple underlying relationship.
+  - Growth is a leading indicator of achievement.
+  - Achievement is a lagging indicator of growth.
+- That is, high rates of growth (i.e., learning) lead to higher rates of attainment.
+- A coherent understanding between the relationship between growth and achievement is critical to understanding performance management in education.  
 
 :::
 
 ---
 
-## Gill's Infographic {transition="fade"}
-
-:::::{.columns}
-
-::::{.column width="40%"}
-
-:::{.incremental}
-
-* Gill's focus is on the quality of the three components as opposed to how they fit together.[^1]
-* Gill's ordering of the components from left to right is opposite of how they occur temporally: Processes [lead to]{style="color: magenta;"} Impacts [lead to]{style="color: magenta;"} which [lead to]{style="color: magenta;"} Outcomes.
-* Though the quality of the components is important, I argue that the [connection]{style="color: magenta;"} between the components is more important.
-* Connections between the components is part of the foundation of coherence. 
-
-:::
-
-::::
-
-::::{.column width="60%"}
-
-![](assets/img/gill_infographic.png){width=100%}
-
-::::
-
-:::::
-
-[^1]: Within the fine print of Gill's infographic for _Processes_ he does point out that "... and other activities that produce the impacts leading to the improved student outcomes."
+## {background-image=assets/img/processes_impacts_outcomes_infographic_1.png background-size="contain" background-position="center"}
 
 ---
 
@@ -272,7 +234,7 @@ Section: Processes versus Outcomes
 
 :::{.incremental}
 
-* This modified infographic correctly orders the Processes, Impacts, and Outcomes components.
+* This infographic orders the Processes, Impacts, and Outcomes components.
 * Growth and Status indicators are indicated to the right of the infographic: Growth is a leading indicator whereas Status is a lagging indicator.
 * Growth is the bridge connecting Processes to Outcomes.
 
@@ -298,10 +260,9 @@ Section: Processes versus Outcomes
 
 :::{.incremental}
 
-* I've added to dashed lines to the figure indicating proper (coherent) and improper (incoherent) connections between the components.
+* The dashed lines in the figure indicate proper (coherent) and improper (incoherent) connections between the components.
 * The red dashed line connecting outcomes to processes is improper but is done repeatedly even by experts in our field.
 * The black dashed line connecting growth to processes is the proper connection but is rarely used in accountability contexts.
-  * Examining the impact of processes has been the purview of educational research and program evaluation for over a century.
 
 :::
 
@@ -315,7 +276,18 @@ Section: Processes versus Outcomes
 
 :::::
 
--
+
+<!--
+#########################################
+Section: Processes versus Outcomes
+#########################################
+-->
+
+# {background-image=assets/img/saban_quote.png background-size="cover" background-position="center"}
+
+---
+
+
 
 
 
