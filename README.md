@@ -1,6 +1,6 @@
-# Education First
-## National Forum on the Future of Assessment & Accountability<br>February 19th to 21st, 2025<br>Dallas, Texas
+# CCSSO 2025 National Conference on Student Assessment (NCSA)
+## June 23rd to 25th, 2025<br>Denver, Colorado
 
-Death to Proficiency Long Live Proficiency Presentation for Education First National Forum on the Future of Assessment & Accountability. 2/19/25 to 2/21/25
+Death to Proficiency Long Live Proficiency Presentation for CCSSO-NCSA 2025 6/23/25 to 6/25/25
 
-[Presentation](https://dbetebenner.github.io/EdFirst_Conference_022025/Death_to_Proficiency_Long_Live_Proficiency.html)
+[Presentation](https://dbetebenner.github.io/NCSA_2025_Conference_DTP-LLP/Death_to_Proficiency_Long_Live_Proficiency.html)
