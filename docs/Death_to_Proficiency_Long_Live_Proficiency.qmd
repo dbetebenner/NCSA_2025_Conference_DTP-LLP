@@ -283,7 +283,7 @@ Section: Proficiency
 #########################################
 -->
 
-# {background-image="assets/img/king.jpg" background-size="cover" background-position="center"}
+# {background-image="assets/img/king.jpg" background-size="contain" background-position="center"}
 
 <div style="position: absolute; top: 15%; left: 50%; transform: translate(-50%, -50%); background-color: rgba(0,0,0,0.0); padding: 20px; border-radius: 10px;">
   <p class="gothic-text" style="font-size: 150px; color: gold;">Proficiency</p>
@@ -344,7 +344,7 @@ Section: Processes versus Outcomes
 #########################################
 -->
 
-# {background-image=assets/img/saban_quote.png background-size="cover" background-position="center"}
+# {background-image=assets/img/saban_quote.png background-size="contain" background-position="center"}
 
 ---
 
